@@ -27,6 +27,7 @@
 many more......
 
 ======= ADMIN =======
+# and include other like manager ,salesman , employe, storekeeper
 
 - Admin roles, permission
 - Product manager
