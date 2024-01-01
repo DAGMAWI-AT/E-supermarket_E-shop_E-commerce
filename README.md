@@ -1,5 +1,5 @@
 # E-supermarket Laravel 9
-#E-shop
+#E-supermarket
 #E-commerce
 
 
