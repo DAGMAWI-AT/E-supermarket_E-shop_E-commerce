@@ -22,6 +22,7 @@
 - Laravel Socialite implement(Facebook, Google & twitter) & Customer login
 - Product Share and follow from different social platform...
 - Payment integration(Paypal)
+- Payment integration(Chapa)
 - Order Tracking system
 - Multi-level comment system
 many more......
