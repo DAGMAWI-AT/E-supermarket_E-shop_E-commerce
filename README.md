@@ -60,7 +60,7 @@ Many more....
 
 
 ## Screenshots :
-
+![cheakoutpage](https://github.com/DAGMAWI-AT/E-supermarket_E-shop_E-commerce/assets/122219411/740ccf47-70c5-4f53-9566-445a18c0ba53)
 
 ## Set up :
 
