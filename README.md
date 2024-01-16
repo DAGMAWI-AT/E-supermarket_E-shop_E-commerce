@@ -60,6 +60,8 @@ Many more....
 
 
 ## Screenshots :
+Home page
+![home page](https://github.com/DAGMAWI-AT/E-supermarket_E-shop_E-commerce/assets/122219411/45d72675-999f-46a6-9a75-4648a4caaf35)
 Check out Page
 ![cheakoutpage](https://github.com/DAGMAWI-AT/E-supermarket_E-shop_E-commerce/assets/122219411/740ccf47-70c5-4f53-9566-445a18c0ba53)
 
